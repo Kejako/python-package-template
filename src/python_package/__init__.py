@@ -1,6 +1,5 @@
 #   -------------------------------------------------------------
-#   Copyright (c) Microsoft Corporation. All rights reserved.
-#   Licensed under the MIT License. See LICENSE in project root for information.
+#   Copyright (c) Kejako. All rights reserved.
 #   -------------------------------------------------------------
 """Python Package Template"""
 from __future__ import annotations
